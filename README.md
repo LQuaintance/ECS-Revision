@@ -4,10 +4,12 @@ A mobile-first revision app based on the supplied **ECS Health, Safety and Envir
 
 ## What is included
 
-- 11 short topic lessons mapped to the guide’s assessed areas
-- Recall flashcards
-- Randomised multiple-choice quizzes with explanations
-- Device-local learning progress and accuracy
+- All 327 extractable multiple-choice questions and explanations from the supplied guide, across all 11 assessed areas
+- Fresh-question sessions that do not repeat a question until the whole question cycle is complete
+- Review-misses mode: incorrect answers stay queued until answered correctly
+- Topic-only practice and 25-question mixed practice tests
+- Scenario flashcards that give context before asking for a response
+- Device-local learning progress, topic coverage and accuracy
 - Responsive layout for iPhone and desktop
 - A web app manifest and offline cache, so it can be installed after it is hosted
 
